@@ -1,6 +1,73 @@
-.myname {
-    color: rgb(6, 5, 5);
-    font-family: sans-serif ;
-    font-size: 30px;
-    margin-left: 20px;
+
+*{
+background: linear-gradient(to right, #000428, #02315a);
+
 }
+.name{
+    font-size: 35px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin-right: 60px;
+
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.home-button, .skills-button, .projects-button, .resume-button, .blog-button, .contact-button{
+    background-color: rgb(233, 214, 8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    color: black;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 10px;
+    margin-right: 50px; /* adds space to the right of each tab */
+    margin-top: 30px;
+
+
+}
+.welcome{
+    color: white;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+
+}
+.photo{
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+}
+.home{
+    color: white;
+}
+.dis{
+    font-size: 25px;
+    margin-left: 100px;
+
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+}
+.skills{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
